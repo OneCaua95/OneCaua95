@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou Cauã Wendel</h1>
 <h3 align="left">Sobre mim:</h3>
 
-<img src="https://www.shakebugs.com/wp-content/uploads/2022/05/Collaborative-coding-tools-for-remote-pair-programming.png" width="350px" align="right">
+<img src="https://justhanblog.wordpress.com/wp-content/uploads/2017/07/snake.gif" width="350px" align="right">
 
  - 📚Capacidade de aprender rapidamente novas tecnologias e conceitos de programação.
  - 🕵️Habilidade para resolver problemas de forma lógica e eficiente.
