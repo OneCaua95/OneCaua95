@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou Cauã Wendel</h1>
 <h3 align="left">Sobre mim:</h3>
 
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79238/programing-clipart-xl.png" width="350px" align="right">
+<img src="https://developer.paymentshub.com/images/python-programming.png" width="350px" align="right">
 
  - 📚Capacidade de aprender rapidamente novas tecnologias e conceitos de programação.
  - 🕵️Habilidade para resolver problemas de forma lógica e eficiente.
