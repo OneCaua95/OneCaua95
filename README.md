@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-wendel-229aba314/)
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cauawendel9@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+83+987104233)  
+
 
 
 ![OneCaua95 GitHub stats](https://github-readme-stats.vercel.app/api?username=OneCaua95&show_icons=true&theme=radical)
