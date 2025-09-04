@@ -25,10 +25,14 @@
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" style="vertical-align: middle; margin: 4px;"/>
   </a>
   <a href="https://pandas.pydata.org/">
-    <img src="URL_DO_BADGE_PANDAS" alt="Pandas" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" style="vertical-align: middle; margin: 4px;"/>
   </a>
   <a href="https://powerbi.microsoft.com/">
-    <img src="URL_DO_BADGE_POWERBI" alt="Power BI" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="Html" style="vertical-align: middle; margin: 4px;"/>
+  </a>
+ </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" style="vertical-align: middle; margin: 4px;"/>
   </a>
 </p>
 
