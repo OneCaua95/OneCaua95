@@ -3,9 +3,12 @@
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/back-end-developer-4316118-3611968.png" width="300px" align="right">
 
- - 📚Capacidade de aprender rapidamente novas tecnologias e conceitos de programação.
- - 🕵️Habilidade para resolver problemas de forma lógica e eficiente.
- - 🎓Desejo e vontade de aprender e aprimorar constantemente habilidades de programação.
+- 🎓 Estudante de **Ciência de Dados para Negócios (UFPB)**, atualmente no 4º período.  
+- 📊 Experiência prática em **análise exploratória de dados, ETL, visualização interativa** e construção de dashboards.  
+- 🐍 Domínio de bibliotecas como **Pandas, Streamlit e Power BI**, aplicadas em projetos acadêmicos e pessoais.  
+- 📈 Interesse em **dados financeiros, públicos e empresariais**, com foco em apoiar a tomada de decisão baseada em dados.  
+- 🚀 Busco oportunidades de estágio ou projetos colaborativos para aplicar e aprofundar meus conhecimentos na área de ciência de dados.  
+
  
 <p align="left">
 </p>
