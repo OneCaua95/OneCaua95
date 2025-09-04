@@ -34,6 +34,9 @@
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" style="vertical-align: middle; margin: 4px;"/>
   </a>
+    <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlite" style="vertical-align: middle; margin: 4px;"/>
+  </a>
 </p>
 
 
