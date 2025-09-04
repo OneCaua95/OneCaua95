@@ -41,8 +41,11 @@
     <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" style="vertical-align: middle; margin: 4px;"/>
   </a>
+  </a>
+    <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" style="vertical-align: middle; margin: 4px;"/>
+  </a>
 </p>
-
 
 
 
