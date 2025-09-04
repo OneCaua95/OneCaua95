@@ -12,32 +12,23 @@
 
 <h3 align="left">Minhas Habilidades:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" style="vertical-align: middle; margin: 4px;"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.mysql.com/">
+    <img src="URL_DO_BADGE_SQL" alt="SQL" style="vertical-align: middle; margin: 4px;"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="URL_DO_BADGE_JAVASCRIPT" alt="JavaScript" style="vertical-align: middle; margin: 4px;"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://www.php.net/">
+    <img src="URL_DO_BADGE_PHP" alt="PHP" style="vertical-align: middle; margin: 4px;"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/">
+    <img src="URL_DO_BADGE_PANDAS" alt="Pandas" style="vertical-align: middle; margin: 4px;"/>
   </a>
-  <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <!-- Power BI (não está no Devicon, então usamos ícone externo) -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="URL_DO_BADGE_POWERBI" alt="Power BI" style="vertical-align: middle; margin: 4px;"/>
   </a>
 </p>
 
