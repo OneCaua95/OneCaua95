@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" style="vertical-align: middle; margin: 4px;"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="URL_DO_BADGE_SQL" alt="SQL" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="vertical-align: middle; margin: 4px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="URL_DO_BADGE_JAVASCRIPT" alt="JavaScript" style="vertical-align: middle; margin: 4px;"/>
