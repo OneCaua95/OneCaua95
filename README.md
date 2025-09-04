@@ -1,54 +1,52 @@
-<h1 align="center">Olá, Eu sou Cauã Wendel</h1>
-<h3 align="left">Sobre mim:</h3>
+<h1 align="center">Hello, I'm Cauã Wendel</h1>
+<h3 align="left">About Me:</h3>
 
-<img src="https://eimrglobal.org/wp-content/uploads/2025/02/PROGRAM-OVERVIEW-01.png" width="500px" align="right">
+<img src="https://eimrglobal.org/wp-content/uploads/2025/02/PROGRAM-OVERVIEW-01.png" width="420px" align="right">
 
-- 🎓 Estudante de **Ciência de Dados para Negócios (UFPB)**, atualmente no 4º período.  
-- 📊 Experiência prática em **análise exploratória de dados, ETL, visualização interativa** e construção de dashboards.  
-- 🐍 Domínio de bibliotecas como **Pandas, Streamlit e Power BI**, aplicadas em projetos acadêmicos e pessoais.  
-- 📈 Interesse em **dados financeiros, públicos e empresariais**, com foco em apoiar a tomada de decisão baseada em dados.  
-- 🚀 Busco oportunidades de estágio ou projetos colaborativos para aplicar e aprofundar meus conhecimentos na área de ciência de dados.  
+- 🎓 **Data Science for Business undergraduate (UFPB)**, currently in the 4th semester.  
+- 📊 Hands-on experience with **exploratory data analysis, ETL, interactive dashboards**, and data visualization.  
+- 🐍 Proficient in **Python, Pandas, Streamlit, and Power BI**, applied to both academic and personal projects.  
+- 📈 Strong interest in **financial, public, and business data**, aiming to support **data-driven decision-making**.  
+- 🚀 Seeking internship or collaborative projects to apply and expand my knowledge in **data science**.  
 
- 
-<p align="left">
-</p>
+<p align="left"></p>
 
-<h3 align="left">Minhas Habilidades:</h3>
+---
+
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" style="vertical-align: middle; margin: 4px;"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="vertical-align: middle; margin: 4px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" style="vertical-align: middle; margin: 4px;"/>
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
   </a>
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://en.cppreference.com/w/">
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-264DE4.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://plotly.com/">
+    <img src="https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly"/>
   </a>
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="Html" style="vertical-align: middle; margin: 4px;"/>
-  </a>
- </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" style="vertical-align: middle; margin: 4px;"/>
-  </a>
-    <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlite" style="vertical-align: middle; margin: 4px;"/>
-  </a>
-  </a>
-    <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" style="vertical-align: middle; margin: 4px;"/>
-  </a>
-  </a>
-    <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   </a>
 </p>
+
 
 
 
