@@ -37,7 +37,13 @@
     <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlite" style="vertical-align: middle; margin: 4px;"/>
   </a>
+  </a>
+    <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/Plotly-7A76FF.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly" style="vertical-align: middle; margin: 4px;"/>
+  </a>
 </p>
+
+
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-wendel-229aba314/)
