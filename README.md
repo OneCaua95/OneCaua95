@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="vertical-align: middle; margin: 4px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="URL_DO_BADGE_JAVASCRIPT" alt="JavaScript" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" style="vertical-align: middle; margin: 4px;"/>
   </a>
   <a href="https://www.php.net/">
-    <img src="URL_DO_BADGE_PHP" alt="PHP" style="vertical-align: middle; margin: 4px;"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" style="vertical-align: middle; margin: 4px;"/>
   </a>
   <a href="https://pandas.pydata.org/">
     <img src="URL_DO_BADGE_PANDAS" alt="Pandas" style="vertical-align: middle; margin: 4px;"/>
