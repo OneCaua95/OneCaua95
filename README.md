@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou Cauã Wendel</h1>
 <h3 align="left">Sobre mim:</h3>
 
-<img src="https://eimrglobal.org/wp-content/uploads/2025/02/PROGRAM-OVERVIEW-01.png" width="300px" align="right">
+<img src="https://eimrglobal.org/wp-content/uploads/2025/02/PROGRAM-OVERVIEW-01.png" width="500px" align="right">
 
 - 🎓 Estudante de **Ciência de Dados para Negócios (UFPB)**, atualmente no 4º período.  
 - 📊 Experiência prática em **análise exploratória de dados, ETL, visualização interativa** e construção de dashboards.  
