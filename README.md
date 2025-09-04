@@ -45,7 +45,7 @@
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   </a>
-   <a href="https://powerbi.microsoft.com/">
+   <a href="https://spacy.io/">
     <img src="https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white" alt="SpaCy"/>
   </a>
 </p>
