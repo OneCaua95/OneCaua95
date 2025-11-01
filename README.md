@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Cauã Wendel</h1>
 <h3 align="left">About Me:</h3>
 
-- 🎓 **Data Science for Business undergraduate (UFPB)**, currently in the 4th semester.  
+- 🎓 **Data Science for Business undergraduate (UFPB)**, currently in the 5th semester.  
 - 📊 Hands-on experience with **exploratory data analysis, ETL, interactive dashboards**, and data visualization.  
 - 🐍 Proficient in **Python, Pandas, Streamlit, and Power BI**, applied to both academic and personal projects.  
 - 📈 Strong interest in **financial, public, and business data**, aiming to support **data-driven decision-making**.  
