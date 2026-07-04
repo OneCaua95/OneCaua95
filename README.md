@@ -55,6 +55,5 @@
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cauawendel9@gmail.com)
 
 
-
-![OneCaua95 GitHub stats][![GitHub Streak](https://streak-stats.demolab.com?user=OneCaua95&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=OneCaua95&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 ![OneCaua95 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneCaua95&layout=compact&theme=radical)
