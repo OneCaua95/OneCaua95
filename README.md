@@ -56,5 +56,5 @@
 
 
 
-![OneCaua95 GitHub stats](https://github-readme-stats.vercel.app/api?username=OneCaua95&show_icons=true&theme=radical)
+![OneCaua95 GitHub stats][![GitHub Streak](https://streak-stats.demolab.com?user=OneCaua95&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 ![OneCaua95 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneCaua95&layout=compact&theme=radical)
