@@ -56,4 +56,4 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OneCaua95&theme=tokyonight&locale=pt_BR)]
-![OneCaua95 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneCaua95&layout=compact&theme=radical)
+
